@@ -1,0 +1,2 @@
+from .DecoupleCLIP_decoupleclip import DecoupleCLIPModel
+from .DecoupleCLIP_trainer import DecoupleCLIP
